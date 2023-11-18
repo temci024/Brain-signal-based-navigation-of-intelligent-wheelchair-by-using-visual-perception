@@ -60,4 +60,8 @@ environment.
 
 <p align="center">Figure 01: Extracted brain signals after preprocessing.</p>
 
+![gazeboSimulation](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/aa80f306-4e9b-4f2e-97b5-a699c4503c79)
+<p align="center">Figure 02: Real-time automatic navigation of the robot in the simulation environment using
+Gazebo and Rviz platforms based on the detection of the 7 Hz frequency signal, leading to the
+selection of the corresponding location.</p>
 
