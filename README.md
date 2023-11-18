@@ -57,6 +57,7 @@ control signals were then utilized for automatic navigation of a robot model usi
 environment.
 
 ![result](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/fa717d50-02bc-4c34-a21a-e081f48ad2eb)
-                                                Figure 01: Extracted brain signals after preprocessing
+
+<p align="center">Figure 01: Extracted brain signals after preprocessing.</p>
 
 
