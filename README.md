@@ -22,4 +22,28 @@ on others for movement. This dependence on external assistance limits their abil
 their surroundings freely. Consequently, there is a pressing need to develop innovative solutions that empower
 these individuals to regain control over their wheelchair navigation.
 
+## Conceptualization:
+The process of navigating a wheelchair using Steady State Visual Evoked Potential (SSVEP) brain signals involves
+a specific mechanism. When a person focuses their attention on a flickering light that operates at a particular
+frequency, a corresponding frequency signal is generated in their brain. This signal is known as the SSVEP brain
+signal.
+The SSVEP brain signal can be extracted from the brain using appropriate techniques and converted into a
+control signal. In a known environment, if a patient wishes to navigate from their current location to another
+location, they can provide control commands to the wheelchair using their brain-generated control signal.
+By utilizing the extracted control signal, the wheelchair can autonomously navigate from the current location to
+the specified location without the need for external assistance. This eliminates the requirement for another
+person to physically move the wheelchair, providing the patient with greater independence and freedom of
+movement.
+
+## System Overview:
+he system is divided into two major sections: brain signal processing and automatic wheelchair navigation.
+In the brain signal processing section, a user interface is created, consisting of four flickering frequency squares.
+Each frequency corresponds to a different location within the known environment. The brain signal is acquired
+using a brain signal acquisition system. It undergoes preprocessing, feature extraction, and classification
+techniques to convert it into a control signal.
+The processed control signal serves as input for the wheelchair navigation section, allowing the wheelchair to
+autonomously navigate to the specified location within the known environment.
+
+
+
 
