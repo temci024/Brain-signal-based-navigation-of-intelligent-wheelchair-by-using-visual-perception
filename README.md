@@ -47,8 +47,6 @@ autonomously navigate to the specified location within the known environment.
 ![simulationModel_new_final (1) drawio](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/07546627-d9ac-442b-9d1d-cf406f0cf1bb)
 
 
-![systemOverview](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/963c0395-941c-412c-bc26-beb1b27cb40e)
-
 ## Results :
 In the experiment, brain signals corresponding to frequencies of 6 Hz, 7 Hz, 8 Hz, and 9 Hz were successfully
 extracted and converted into control signals. The brain signals, obtained in real-time from the subjects,
@@ -61,8 +59,17 @@ environment.
 
 <p align="center">Figure 01: Extracted brain signals after preprocessing.</p>
 
+
+
 ![gazeboSimulation](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/aa80f306-4e9b-4f2e-97b5-a699c4503c79)
+
 <p align="center">Figure 02: Real-time automatic navigation of the robot in the simulation environment using
 Gazebo and Rviz platforms based on the detection of the 7 Hz frequency signal, leading to the
 selection of the corresponding location.</p>
+
+
+The implementation of this idea directly into the wheelchair itself has not been realized yet, primarily due to hardware limitations. 
+However, an alternative approach has been adopted by activating simple controls on the wheelchair. This is achieved through real-time classification of brain signals, bypassing the
+traditional joystick and utilizing an Arduino Micro controller. Each classified brain signal is assigned to a
+specific path, enabling real-time navigation of the wheelchair along predefined routes
 
