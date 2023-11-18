@@ -71,5 +71,7 @@ selection of the corresponding location.</p>
 The implementation of this idea directly into the wheelchair itself has not been realized yet, primarily due to hardware limitations. 
 However, an alternative approach has been adopted by activating simple controls on the wheelchair. This is achieved through real-time classification of brain signals, bypassing the
 traditional joystick and utilizing an Arduino Micro controller. Each classified brain signal is assigned to a
-specific path, enabling real-time navigation of the wheelchair along predefined routes
+specific path, enabling real-time navigation of the wheelchair along predefined routes.
+
+
 
