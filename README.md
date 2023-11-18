@@ -73,5 +73,7 @@ However, an alternative approach has been adopted by activating simple controls 
 traditional joystick and utilizing an Arduino Micro controller. Each classified brain signal is assigned to a
 specific path, enabling real-time navigation of the wheelchair along predefined routes.
 
+![simulationModel_new_final (1) drawio (1)](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/727c10f4-77ff-4cbf-a170-6263a157034f)
+
 
 
