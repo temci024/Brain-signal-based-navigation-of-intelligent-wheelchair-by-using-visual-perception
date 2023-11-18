@@ -76,6 +76,11 @@ specific path, enabling real-time navigation of the wheelchair along predefined 
 
 ![Hardware Model](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/9143c1a9-cb36-4e70-a221-b3a56c3bc62b)
 
+## Impact : 
+This project holds significant potential to benefit patients worldwide who have a healthy mind and visual
+abilities. By leveraging the advancements in brain signal processing and control systems, it provides a valuable
+solution for individuals with limited mobility, specifically those who are unable to use their hands or legs to
+control a wheelchair.
 
 
 
