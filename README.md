@@ -44,6 +44,7 @@ techniques to convert it into a control signal.
 The processed control signal serves as input for the wheelchair navigation section, allowing the wheelchair to
 autonomously navigate to the specified location within the known environment.
 
+![simulationModel_new_final (1) drawio](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/07546627-d9ac-442b-9d1d-cf406f0cf1bb)
 
 
 ![systemOverview](https://github.com/temci024/Brain-signal-based-navigation-of-intelligent-wheelchair-by-using-visual-perception/assets/129023792/963c0395-941c-412c-bc26-beb1b27cb40e)
