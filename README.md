@@ -36,7 +36,7 @@ person to physically move the wheelchair, providing the patient with greater ind
 movement.
 
 ## System Overview:
-he system is divided into two major sections: brain signal processing and automatic wheelchair navigation.
+The system is divided into two major sections: brain signal processing and automatic wheelchair navigation.
 In the brain signal processing section, a user interface is created, consisting of four flickering frequency squares.
 Each frequency corresponds to a different location within the known environment. The brain signal is acquired
 using a brain signal acquisition system. It undergoes preprocessing, feature extraction, and classification
